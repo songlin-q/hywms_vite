@@ -1,0 +1,12 @@
+/* 首图动画：下移 */
+@keyframes header-effect {
+    0% {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

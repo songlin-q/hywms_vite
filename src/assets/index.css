@@ -1,0 +1,13 @@
+body{
+padding: 0;
+margin: 0;
+}
+button{
+    outline: none !important;
+}
+
+.el-pagination{
+    margin-top: 10px;
+   display: flex;
+   justify-content: center;
+}
